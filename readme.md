@@ -1,9 +1,4 @@
 
-
-## Titel en Beschrijving:
-
-Een duidelijke titel voor je dashboard. Een korte beschrijving van het dashboard en zijn doel.
-
 # Hoe zit de toekomst van het luchvaart sector?
 
 In dit dashboard hebben we een aantal datasets gebruikt en geanalyseerd om de toekomst van de luchtvaartsector te kunnen voorspellen. Op basis van klanttevredenheid, winst, omzet, CO2-uitstoot gaan we er een duidelijker beeld van krijgen en om ervoor te zorgen dat dit ook leuk wordt, hebben we Big Bird uit het programma Sesame straat voor hulp gevraagd.
@@ -12,17 +7,24 @@ In dit dashboard hebben we een aantal datasets gebruikt en geanalyseerd om de to
 
 Big bird gaat ons vanaf nu precies vertellen wat er gebeurt op het gebied van de datasets en de visualisaties die op dit project gebruikt zijn. Volg hem dus op de voet!
 
-Installatie-instructies:
+# Installatie-instructies:
 
-Als er specifieke stappen nodig zijn om het dashboard te installeren of te implementeren, geef dan gedetailleerde instructies.
+Om het dashboard te implementeren, hier wat gedetailleerde instructies:
 
-Vereisten:
+- Zorg dat je op je computer, Power Bi hebt geinstallerd
+- Vanit Github: cloneert het repository binnen een map op jouw computer
+- Vanuit Git Nexed: Download het .pbix bestaand en ook de datasets, zie datasets 1, 2, 3 en 4 verder op
+- Laad deze in Power BI: begint met de datasets en vervolgens de .pbix bestaand
+- Zorg dat er de juiste path toegegeven is
 
-Eventuele software, services of datasets die nodig zijn om het dashboard te laten werken.
-
-Gegevensbronnen en Datasets:
+# Gegevensbronnen en Datasets:
 
 Een lijst van alle gegevensbronnen en datasets die worden gebruikt in het dashboard.
+
+- Dataset 1: [Airline Expenses](https://www.kaggle.com/datasets/xan3011/airline-data-project-mit-1995-2019?select=airline_expenses.csv)
+- Dataset 2: [Airline Passengers](https://www.kaggle.com/datasets/xan3011/airline-data-project-mit-1995-2019?select=airline_passengers.csv)
+- Dataset 3: [Passengers Satisfaction](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction/)
+- Dataset 4: [Airline Revenue](https://www.kaggle.com/datasets/xan3011/airline-data-project-mit-1995-2019?select=airline_revenues.csv)
 
 Navigatiegids:
 

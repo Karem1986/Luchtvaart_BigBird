@@ -60,7 +60,7 @@ Het doel van de key influencers visual is dat je kunt zien de belangrikste facto
 
 Op de linkert kant, ziet je het filter 'Type of Travel'. Deze filter helpt met het filteren van 'Key influencers' gebaseerd op welke type travel de passenger hebt gemaakt. 
 
-Bijvoorbeld stel voor dat passengers die voor personal redenen hebben gevlucht meer tevreden zijn dat passengers die voor businnes hebben gereisd, dan komen we hier op dit hyphotesis te kunnen testen. Als een vogel, weet ik dat passengers kunnen moelijk zijn om ze tevreden te maken want ik zie alles van boven en soms voor de lol vlieg ik naast vliegtuigen! Maar op dit dashboard, geen aannamen maar wel feiten!
+Bijvoorbeld stel voor dat passengers die voor personal redenen hebben gevlucht meer tevreden zijn dat passengers die voor businnes hebben gereisd, dan komen we hier op dit hyphotesis te kunnen testen. Als een vogel, weet ik dat passengers kunnen moelijk zijn om ze tevreden te maken want ik zie alles van boven en soms voor de lol vlieg ik naast vliegtuigen! Maar op dit dashboard, geen aannamen maar wel feiten! :laughing:
 
 ## Derde Dashboard: Satisfaction Demographics (using DAX)
 

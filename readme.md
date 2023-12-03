@@ -60,8 +60,16 @@ Hierin hebben we goed 'DAX' custom measures gebruikt.
 
 Het reder hiervoor is dat we wilden weten het precies percentage van satisfaction van passengers aanhankelijk van 'Class': Business, Eco and Eco Plus. 
 
-We hebben er ook een 'custom column' toegevoegd om te kunnen satisfaction analyseren of afscheiden per leeftijgroep. Passengers die Female zijn, Loyal Customer en tussen 30-49 jaar oud zijn tevreden bij 52.06 % dezelfde als males maar allen als het gaat om de 'Eco Plus' Class, dit travel class heeft dan het meest tevreden klanten in vergelijking met de 'Business Class' die een heel erg laag tevredenheid percentage heeft van 24 %. 
+We hebben er ook een 'custom column' toegevoegd om te kunnen satisfaction analyseren of afscheiden per leeftijgroep. 
+
+Passengers die Female zijn, Loyal Customer, tussen 30-49 jaar oud  en 'Travel type' is Business, zijn tevreden bij 52.06 %,  als het gaat om de 'Eco Plus' Class. dezelfde geldt voor males.
+De Eco Plus class heeft het meest tevreden klanten in vergelijking met de 'Business Class' die een heel erg laag tevredenheid percentage van 24 % heeft. Wat meer interessant lijkt is dat dit feit geldt ook voor andere leeftijdgroepen net zoals < 30 jaar oud, Type travel is personal en Customer type is Loyal of Disloyal. 
+
 
 # Demonstratie:
 
 Eventueel een korte stapsgewijze demonstratie van hoe je een specifieke taak uitvoert of inzichten uit het dashboard haalt.
+
+Hierbij een korte video introductie om je te laat zien hoe kan je door een dashboard navigeren om inzichten te halen door gebruik van bookmarks:
+
+[Demonstratie Revenue Dashboard-inzichten halen uit Bookmarks](https://youtu.be/gWAClQ5AHu4)

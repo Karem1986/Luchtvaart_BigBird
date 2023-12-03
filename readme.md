@@ -1,7 +1,11 @@
 
-# Hoe zit de toekomst van het luchvaart sector?
+# Hoe zit de financieel landscape en passenger satisfaction van het luchtvaart sector?
 
-In dit dashboard hebben we een aantal datasets gebruikt en geanalyseerd om de toekomst van de luchtvaartsector te kunnen voorspellen. Op basis van klanttevredenheid, winst, omzet, CO2-uitstoot gaan we er een duidelijker beeld van krijgen en om ervoor te zorgen dat dit ook leuk wordt, hebben we Big Bird uit het programma Sesame straat voor hulp gevraagd. Let op dat er alle data bronnen uit de Veregnigde Staten zijn, daarvan kunnen we niet een algemeen voorspeld hierdoor doen. 
+In dit dashboard hebben we een aantal datasets gebruikt en geanalyseerd om verschillende factoren van luchtvaartsector te kunnen analyseren. Op basis van klanttevredenheid, winst en zo voort gaan we er een duidelijker beeld van krijgen. 
+
+Let op dat er alle data bronnen uit de Veregnigde Staten zijn, daarvan kunnen we niet een algemeen voorspeld hierdoor doen. 
+
+Om ervoor te zorgen dat dit ook fun is, hebben we Big Bird, uit het programma Sesame straat,  voor hulp gevraagd. 
 
 ![alt="Sesame Street Big Bird Cartoon](big_bird.png)
 

@@ -30,9 +30,37 @@ Een lijst van alle gegevensbronnen en datasets die worden gebruikt in het dashbo
 
 Instructies over hoe je door het dashboard kunt navigeren, inclusief het selecteren van filters, slicers en interactieve elementen.
 
+Er zijn drie dashboards: 
+- Revenue (Bookmarks)
+- Passenger Satisfaction-Key Influencers
+- Satisfaction Demographics (using Dax)
+
 # Dashboardfuncties:
 
 Een overzicht van de belangrijkste functies en interactieve elementen in het dashboard, met inbegrip van grafieken, tabellen, filters, enz.
+
+## Eerste Dashboard: Revenue (Bookmarks)
+
+Je begint met het 'Revenue' Dashboard waarin er twee bookmarks zijn. De eerste bookmark 'Grow years' helpt met het visualiseren van het grooien door de jaren 1995-2005-2018. We zien een grote stijging in revenue vanaf 2005.
+De tweede bookmark 'See all data' helpt met het visualiseren van alle data voor elke jaar wandt dat is ook nuttig voor stakeholders. 
+Daanast, heb je ook de mogelijkheid om 'Revenue per airline'te kunnen zien in de donutgrafiek. Als je een datapoint selecteert, bijvoorveld 'American' gaat je zien de portie % revenue voor dit specifiek airline. 
+Eindelijk, komen we tot een aantal conclusies via de 'Narrative smart' voor Revenue waarin een korte uitleg is geschreven en een suggestie voor mogelijkheid onderzoek. 
+
+## Tweede Dashboard: Passenger Satisfaction-Key Influencers
+
+In deze dashboard maken we gebruik van de 'Key influencers' visual in Power BI.
+
+Het doel van de key influencers visual is dat je kunt zien de belangrikste factoren die een invloed hebben op 'passenger satisfaction' maar ook de 'Top segments' die erbij horen. Op deze manier kunt je wat dieper in te gaan en meer nuttige inzichten hebben voor dat je stakeholders gaat adviseren of ze zelfs verkeerde conlclusies gaan trekken. 
+
+Op de linkert kant, ziet je het filter 'Type of Travel'. Deze filter helpt met het filteren van 'Key influencers' gebaseerd op welke type travel de passenger hebt gemaakt. Bijvoorbeld stel voor dat we denken dat passengers die voor personal redenen hebben gevlucht meer tevreden zijn dat passengers die voor businnes hebben gereisd, dan komen we hier op dit hyphotesis te kunnen testen. Als een vogel, weet ik dat passengers kunnen moelijk zijn om ze tevreden te maken want ik zie alles van boven en soms voor de lol vlieg ik naast vliegtuigen! Maar op dit dashboard, geen aannamen maar wel feiten!
+
+## Derde Dashboard: Satisfaction Demographics (using DAX)
+
+Hierin hebben we goed 'DAX' custom measures gebruikt. 
+
+Het reder hiervoor is dat we wilden weten het precies percentage van satisfaction van passengers aanhankelijk van 'Class': Business, Eco and Eco Plus. 
+
+We hebben er ook een 'custom column' toegevoegd om te kunnen satisfaction analyseren of afscheiden per leeftijgroep. Passengers die Female zijn, Loyal Customer en tussen 30-49 jaar oud zijn tevreden bij 52.06 % dezelfde als males maar allen als het gaat om de 'Eco Plus' Class, dit travel class heeft dan het meest tevreden klanten in vergelijking met de 'Business Class' die een heel erg laag tevredenheid percentage heeft van 24 %. 
 
 # Demonstratie:
 

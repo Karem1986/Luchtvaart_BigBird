@@ -16,7 +16,7 @@ Big bird gaat ons vanaf nu precies vertellen wat er gebeurt op het gebied van de
 Om het dashboard te implementeren, hier wat gedetailleerde instructies:
 
 - Zorg dat je op je computer, Power Bi geinstallerd hebt
-- Vanit Github: cloneert het repository binnen een map op jouw computer
+- Vanuit Github: cloneert het repository binnen een map op jouw computer
 - Vanuit Git Nexed: Download het .pbix bestaand en ook de datasets, zie datasets 1, 2, 3 en 4 verder op
 - Laad deze in Power BI: begint met de datasets en vervolgens de .pbix bestaand
 - Zorg dat er de juiste path toegegeven is
@@ -56,7 +56,7 @@ Eindelijk, komen we tot een aantal conclusies via de 'Narrative smart' voor Reve
 
 In deze dashboard maken we gebruik van de 'Key influencers' visual in Power BI.
 
-Het doel van de key influencers visual is dat je kunt zien de belangrikste factoren die een invloed hebben op 'passenger satisfaction' maar ook de 'Top segments' die erbij horen. Op deze manier kunt je wat dieper in te gaan en meer nuttige inzichten hebben voor dat je stakeholders gaat adviseren of ze zelfs verkeerde conlclusies gaan trekken. 
+Het doel van de key influencers visual is dat je kunt zien de belangrikste factoren die een invloed op 'passenger satisfaction' hebben maar ook de 'Top segments' die erbij horen. Op deze manier kunt je wat dieper in te gaan en meer nuttige inzichten hebben voor dat je stakeholders gaat adviseren of ze zelfs verkeerde conlclusies gaan trekken. 
 
 Op de linkert kant, ziet je het filter 'Type of Travel'. Deze filter helpt met het filteren van 'Key influencers' gebaseerd op welke type travel de passenger hebt gemaakt. 
 
@@ -77,7 +77,7 @@ De Eco Plus class heeft het meest tevreden klanten in vergelijking met de 'Busin
 
 # Demonstratie
 
-Eventueel een korte stapsgewijze demonstratie van hoe je een specifieke taak uitvoert of inzichten uit het dashboard haalt.
+Een korte stapsgewijze demonstratie van hoe je een specifieke taak uitvoert of inzichten uit het dashboard haalt.
 
 Hierbij een korte video introductie om je te laat zien hoe kan je door een dashboard navigeren om inzichten te halen door gebruik van bookmarks:
 

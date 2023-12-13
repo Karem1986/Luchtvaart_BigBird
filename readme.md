@@ -1,78 +1,84 @@
+# Hoe zit de financiele landschap en klanttevredenheid van het luchtvaart sector?
 
-# Hoe zit de financieel landscape en passenger satisfaction van het luchtvaart sector?
+In dit dashboard hebben we een aantal datasets gebruikt en geanalyseerd om verschillende factoren van het luchtvaartsector te kunnen analyseren. Op basis van klanttevredenheid, winst en zovoort gaan we er een duidelijker beeld van krijgen. 
 
-In dit dashboard hebben we een aantal datasets gebruikt en geanalyseerd om verschillende factoren van luchtvaartsector te kunnen analyseren. Op basis van klanttevredenheid, winst en zo voort gaan we er een duidelijker beeld van krijgen. 
+Let op dat er alle data bronnen uit de Veregnigde Staten zijn, daarmee kunnen we niet een algemene voorspelling doen. 
 
-Let op dat er alle data bronnen uit de Veregnigde Staten zijn, daarvan kunnen we niet een algemeen voorspeld hierdoor doen. 
-
-Om ervoor te zorgen dat dit ook fun is, hebben we Big Bird, uit het programma Sesame straat,  voor hulp gevraagd. 
+Om ervoor te zorgen dat dit ook leuk is, hebben we Big Bird, uit het programma Sesame straat,  voor hulp gevraagd. 
 
 ![alt="Sesame Street Big Bird Cartoon](big_bird.png)
 
-Big bird gaat ons vanaf nu precies vertellen wat er gebeurt op het gebied van de datasets en de visualisaties die op dit project gebruikt zijn. Volg hem dus op de voet!
+Big bird gaat ons vanaf nu precies vertellen wat er gebeurt op het gebied van de datasets en visualisaties die voor dit project worden gebruikt. Volg hem dus op de voet!
 
 # Installatie-instructies:
 
-Om het dashboard te implementeren, hier wat gedetailleerde instructies:
+Om het dashboard te implementeren, heb je hier gedetailleerde instructies:
 
-- Zorg dat je op je computer, Power Bi geinstallerd hebt
-- Vanit Github: cloneert het repository binnen een map op jouw computer
-- Vanuit Git Nexed: Download het .pbix bestaand en ook de datasets, zie datasets 1, 2, 3 en 4 verder op
-- Laad deze in Power BI: begint met de datasets en vervolgens de .pbix bestaand
-- Zorg dat er de juiste path toegegeven is
+- Zorg dat je op je computer Power Bi hebt geïnstalleerd
+- Vanit Github: kloon de repository binnen een map op je computer
+- Van Git Nexed: Download de .pbix bestaande en ook de datasets, zie datasets 1, 2, 3 en 4 verderop
+- Laad deze in Power BI: begin met de datasets en dan de .pbix existing
+- Zorg ervoor dat het juiste pad is opgegeven
 
-# Gegevensbronnen en Datasets:
+# Gegevensbronnen en datasets:
 
-Een lijst van alle gegevensbronnen en datasets die worden gebruikt in het dashboard.
+Een lijst van alle gegevensbronnen en datasets die in het dashboard worden gebruikt.
 
-- Dataset 1: [Airline Expenses](https://www.kaggle.com/datasets/xan3011/airline-data-project-mit-1995-2019?select=airline_expenses.csv)
-- Dataset 2: [Airline Passengers](https://www.kaggle.com/datasets/xan3011/airline-data-project-mit-1995-2019?select=airline_passengers.csv)
-- Dataset 3: [Passengers Satisfaction](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction/)
-- Dataset 4: [Airline Revenue](https://www.kaggle.com/datasets/xan3011/airline-data-project-mit-1995-2019?select=airline_revenues.csv)
+- Dataset 1: [Vliegtuiguitgaven](https://www.kaggle.com/datasets/xan3011/airline-data-project-mit-1995-2019?select=airline_expenses.csv)
+- Dataset 2: [Vliegtuigpassagiers](https://www.kaggle.com/datasets/xan3011/airline-data-project-mit-1995-2019?select=airline_passengers.csv)
+- Dataset 3: [Tevredenheid passagiers](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction/)
+- Dataset 4: [Inkomsten luchtvaartmaatschappij](https://www.kaggle.com/datasets/xan3011/airline-data-project-mit-1995-2019?select=airline_revenues.csv)
 
 # Navigatiegids:
 
-Instructies over hoe je door het dashboard kunt navigeren, inclusief het selecteren van filters, slicers en interactieve elementen.
+Instructies om door het dashboard te navigeren, inclusief het selecteren van filters, slicers en interactieve elementen.
 
 Er zijn drie dashboards: 
-- Revenue (Bookmarks)
-- Passenger Satisfaction-Key Influencers
-- Satisfaction Demographics (using Dax)
+- Inkomsten (bladwijzers)
+- Tevredenheid passagiers
+- Tevredenheidsdemografie (met Dax).
 
 # Dashboardfuncties:
 
-Een overzicht van de belangrijkste functies en interactieve elementen in het dashboard, met inbegrip van grafieken, tabellen, filters, enz.
+Een overzicht van de belangrijkste dashboardfuncties en interactieve elementen, waaronder grafieken, tabellen, filters, enz.
 
-## Eerste Dashboard: Revenue (Bookmarks)
+## Eerste dashboard: Inkomsten (Bladwijzers).
 
-Je begint met het 'Revenue' Dashboard waarin er twee bookmarks zijn. De eerste bookmark 'Grow years' helpt met het visualiseren van het grooien door de jaren 1995-2005-2018. We zien een grote stijging in revenue vanaf 2005.
-De tweede bookmark 'See all data' helpt met het visualiseren van alle data voor elke jaar wandt dat is ook nuttig voor stakeholders. 
+Je begint met het Dashboard 'Inkomsten' waarin twee bladwijzers staan. De eerste bladwijzer 'Jaren groeien' helpt bij het visualiseren van de groei door de jaren 1995-2005-2018. We zien een grote toename in inkomsten vanaf 2005.
+De tweede bladwijzer 'Alle gegevens bekijken' helpt bij het visualiseren van alle gegevens voor elk gewenst jaar, wat ook handig is voor belanghebbenden. 
 
-Daanast, heb je ook de mogelijkheid om 'Revenue per airline'te kunnen zien in de donutgrafiek. Als je een datapoint selecteert, bijvoorveld 'American' gaat je zien de portie % revenue voor dit specifiek airline. 
+Daarnaast heb je ook de mogelijkheid om 'Inkomsten per luchtvaartmaatschappij' in de donutgrafiek te zien. Als je een gegevenspunt selecteert, bijvoorbeeld 'American', zie je het deel % inkomsten voor deze specifieke luchtvaartmaatschappij. 
 
-Eindelijk, komen we tot een aantal conclusies via de 'Narrative smart' voor Revenue waarin een korte uitleg is geschreven en een suggestie voor mogelijkheid onderzoek. 
+Tot slot komen we tot enkele conclusies via de 'Narrative smart' voor Revenue waarin een korte uitleg staat en een suggestie voor mogelijk onderzoek. 
 
-## Tweede Dashboard: Passenger Satisfaction-Key Influencers
+## Tweede dashboard: Tevredenheid van passagiers - Belangrijkste beïnvloeders
 
-In deze dashboard maken we gebruik van de 'Key influencers' visual in Power BI.
+In dit dashboard gebruiken we de visual 'Key influencers' in Power BI.
 
-Het doel van de key influencers visual is dat je kunt zien de belangrikste factoren die een invloed hebben op 'passenger satisfaction' maar ook de 'Top segments' die erbij horen. Op deze manier kunt je wat dieper in te gaan en meer nuttige inzichten hebben voor dat je stakeholders gaat adviseren of ze zelfs verkeerde conlclusies gaan trekken. 
+Het doel van de Key Influcers visual is dat je de belangrijkste factoren kunt zien die invloed hebben op de tevredenheid van passagiers, maar ook de 'Top segmenten' die daarbij horen. Op deze manier kun je dieper gaan en meer bruikbare inzichten krijgen voordat je belanghebbenden adviseert of zelfs verkeerde conclusies trekt. 
 
-Op de linkert kant, ziet je het filter 'Type of Travel'. Deze filter helpt met het filteren van 'Key influencers' gebaseerd op welke type travel de passenger hebt gemaakt. 
+Aan de linkerkant zie je de filter 'Reistype'. Deze filter helpt om de 'Belangrijkste beïnvloeders' te filteren op basis van het soort reis dat de passagier heeft gemaakt. 
 
-Bijvoorbeld stel voor dat passengers die voor personal redenen hebben gevlucht meer tevreden zijn dat passengers die voor businnes hebben gereisd, dan komen we hier op dit hyphotesis te kunnen testen. Als een vogel, weet ik dat passengers kunnen moelijk zijn om ze tevreden te maken want ik zie alles van boven en soms voor de lol vlieg ik naast vliegtuigen! Maar op dit dashboard, geen aannamen maar wel feiten! :laughing:
 
-## Derde Dashboard: Satisfaction Demographics (using DAX)
+Stel bijvoorbeeld dat passagiers die om persoonlijke redenen reisden tevredener zijn dan passagiers die voor zaken reisden, dan komen we hier om deze hyphoteïs te kunnen testen. Als vogel weet ik dat het moeilijk kan zijn om passagiers tevreden te stellen, omdat ik alles van bovenaf zie en soms voor de lol naast vliegtuigen vlieg! Maar op dit dashboard geen veronderstellingen maar feiten! :laughing:
 
-Hierin hebben we goed 'DAX' custom measures gebruikt. 
 
-Het reder hiervoor is dat we wilden weten het precies percentage van satisfaction van passengers aanhankelijk van 'Class': Business, Eco and Eco Plus. 
+## Derde dashboard: Tevredenheidsdemografie (met DAX)
 
-We hebben er ook een 'custom column' toegevoegd om te kunnen satisfaction analyseren of afscheiden per leeftijgroep. 
 
-Passengers die Female zijn, Loyal Customer, tussen 30-49 jaar oud  en 'Travel type' is Business, zijn tevreden bij 52.06 %,  als het gaat om de 'Eco Plus' Class. dezelfde geldt voor males.
+Hierin hebben we goed 'DAX' aangepaste metingen gebruikt. 
 
-De Eco Plus class heeft het meest tevreden klanten in vergelijking met de 'Business Class' die een heel erg laag tevredenheid percentage van 24 % heeft. Wat meer interessant lijkt is dat dit feit geldt ook voor andere leeftijdgroepen net zoals < 30 jaar oud, Type travel is personal en Customer type is Loyal of Disloyal. 
+
+De reden hiervoor is dat we het exacte percentage van tevredenheid van passagiers afhankelijk van de 'Klasse' wilden weten: Business, Eco en Eco Plus. 
+
+
+We hebben ook een 'aangepaste kolom' toegevoegd om de tevredenheid per leeftijdsgroep te analyseren of te segmenteren. 
+
+
+Passagiers die vrouwelijk zijn, een trouwe klant zijn, tussen de 30-49 jaar oud zijn en 'Reistype' Business is, zijn met 52,06% tevreden als het gaat om de 'Eco Plus'-klasse. hetzelfde geldt voor mannen.
+
+
+De Eco Plus-klasse heeft de meest tevreden klanten in vergelijking met de 'Business Class' die een zeer laag tevredenheidspercentage van 24 % heeft. Wat interessanter is, is dat dit ook geldt voor andere leeftijdsgroepen, zoals jonger dan 30 jaar, het type reis is persoonlijk en het type klant is loyaal of niet loyaal.
 
 
 # Demonstratie
